@@ -15,7 +15,7 @@ public class Test01 {
 //		//装饰流
 //		oos=new ObjectOutputStream(new FileOutputStream(file));
 //		//实例化类
-//		Person per=new Person("张",30);
+//		Person per=new Person("张ssssss",30);
 //		oos.writeObject(per);
 //		oos.close();
 		
