@@ -12,6 +12,6 @@ public class Person implements Serializable {
 	}
 	
 	public String toString() {
-		return "ĞÕ:asd"+name+",ÄêÁä:"+age;
+		return "ĞÕ:"+name+",ÄêÁä:"+age;
 	}
 }
